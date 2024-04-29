@@ -24,8 +24,3 @@ print(len(str1))
 str = "Apna_College"
 # str[0] is ‘A’, str[1] is ‘p’ ...
 print(str[2])
-
-# Slicing - Accessing parts of a string
-str = "Unka_College"
-# str[ starting_idx : ending_idx ] : ending idx is not included
-print(str[1:5]) # This will print : nka_
