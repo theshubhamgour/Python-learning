@@ -1,1 +1,0 @@
-# This module was karel based performed in the karel
