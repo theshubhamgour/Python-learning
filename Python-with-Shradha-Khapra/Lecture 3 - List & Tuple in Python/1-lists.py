@@ -7,12 +7,14 @@ print(len(marks))
 print(marks[0])
 
 
+# ----------------------------------------------------------#
 student = [ "Karan", 85, "Soham"]
 print(student)
 #TypeError: 'type' object does not support item assignment
 # str[0] = "Maran"
 
 
+# ----------------------------------------------------------#
 # List Slicing - Similar to String Slicing
 # list_name[ starting_idx : ending_idx ] #ending idx is not included
 
@@ -21,6 +23,7 @@ print(marks[1:4])
 print(marks[-3:-1])
 
 
+# ----------------------------------------------------------#
 # List Methods - Function for lists
 list = [2,3,1]
 list.append(4) #adds one element at the end

@@ -6,6 +6,8 @@ print(type(tup))
 print(tup[0])
 print(tup[1:3])
 
+
+# ----------------------------------------------------------#
 # Tuple Methods
 print(tup.index( 3 )) #returns index of first occurrence
 print(tup.count( 2 )) #counts total occurrences

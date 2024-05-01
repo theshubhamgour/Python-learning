@@ -5,6 +5,9 @@
 # else:
 #     print(num,"is odd")
 
+
+
+# ----------------------------------------------------------#
 # WAP to find the greatest of 3 numbers entered by the user.
 # number1 = int(input("Enter a number1 : "))
 # number2 = int(input("Enter a number2 : "))
@@ -16,6 +19,9 @@
 # else:
 #     print(number1,"is greater")
 
+
+
+# ----------------------------------------------------------#
 # WAP to check if a number is a multiple of 7 or not.
 num = int(input("Enter a number : "))
 if (num%7==0):

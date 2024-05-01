@@ -20,6 +20,8 @@ else:
     print("Out of Scope")
 
 
+
+# ----------------------------------------------------------#
 # Grade students based on marks
 '''
 marks >= 90, grade = “A”
