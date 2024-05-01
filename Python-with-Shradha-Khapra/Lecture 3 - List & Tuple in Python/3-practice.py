@@ -28,10 +28,9 @@
 # Store the above values in a list & sort them from “A” to “D”
 
 # students = ("C","D","A","A","B","B","A") #tuple
-students = ["C","D","A","A","B","B","A"] #list
-print("Total count of A in the tuple: ",students.count("A"))
-
-students.sort()
-print(students)
+# students = ["C","D","A","A","B","B","A"] #list
+# print("Total count of A in the tuple: ",students.count("A"))
+# students.sort()
+# print(students)
 
 
