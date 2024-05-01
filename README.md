@@ -3,6 +3,7 @@
 Welcome to the Python Learning repository! This repository is dedicated to tracking my journey of learning Python, following the teachings of Shradha Khapra, an ex-Microsoft employee who is teaching core Python on her YouTube channel.
 
 ## About the Instructor
+<img width="1419" alt="instructor-img" src="https://github.com/theshubhamgour/Python-learning/assets/72512204/8a922a83-e331-4506-ba86-8930dc11d711">
 Shradha Khapra brings a wealth of experience from her tenure at Microsoft, making her an excellent guide for learning Python. Her tutorials on YouTube are informative, clear, and engaging, making complex concepts easy to understand.
 
 ## Repository Contents
@@ -26,7 +27,7 @@ git clone [https://github.com/theshubhamgour/Python-learning.git](https://github
 
 2. **Explore Content**: Take a look at the assignments, notes, and code snippets available in the repository. Start with the introductory material and progress at your own pace.
 
-3. **Watch Tutorials**: Head over to Shradha Khapra's YouTube channel and watch the tutorials corresponding to the content in this repository. Make sure to follow along with the assignments and take notes.
+3. **Watch Tutorials**: Head over to Shradha Khapra's [YouTube channel](https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0) and watch the tutorials corresponding to the content in this repository. Make sure to follow along with the assignments and take notes.
 
 4. **Contribute**: If you discover any errors, have suggestions for improvement, or want to add additional resources, feel free to contribute to this repository by submitting pull requests.
 
