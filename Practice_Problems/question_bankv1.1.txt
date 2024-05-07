@@ -1,0 +1,21 @@
+/* Questions for Practice */
+Write a Python program to find the maximum element in an array.
+Write a Python program to find the sum of all elements in an array.
+Write a Python program to count the number of even and odd numbers in an array.
+Write a Python program to check if a given element exists in an array.
+Write a Python program to reverse an array.
+Write a Python program to find the average of elements in an array.
+Write a Python program to concatenate two arrays.
+Write a Python program to find the intersection of two arrays.
+Write a Python program to remove duplicates from an array.
+Write a Python program to sort an array in ascending order.
+Write a Python program to find the second largest element in an array.
+Write a Python program to find the union of two arrays.
+Write a Python program to check if an array is sorted in ascending order.
+Write a Python program to find the index of an element in an array.
+Write a Python program to check if two arrays are equal.
+Write a Python program to find the frequency of each element in an array.
+Write a Python program to find the smallest positive integer missing from an unsorted array.
+Write a Python program to rotate an array to the right by a given number of steps.
+Write a Python program to find the majority element in an array.
+Write a Python program to shuffle a given array.
